@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Interior Laboratory/Maps/Demo.unity
+    guid: bd12ec0ccda007649bd1c0d33e4ea138
   m_configObjects: {}
